@@ -4,6 +4,7 @@ title: Polymorphism to Reduce Conditionals
 author: steve_jarvis
 excerpt: "Conditional branching isn't fun for anybody, use polymorphism to avoid it."
 tags: [object-oriented, polymorphism, code]
+categories: [programming, ood]
 comments: true
 image:
   feature: header.jpg

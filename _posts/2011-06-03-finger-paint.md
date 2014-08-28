@@ -3,6 +3,7 @@ layout: post
 title: Finger Paint
 author: steve_jarvis
 excerpt: "A few words about my first major Android application."
+categories: [android, programming]
 tags: [android, code]
 comments: true
 ---
